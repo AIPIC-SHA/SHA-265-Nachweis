@@ -18,6 +18,7 @@ Jeder hier veröffentlichte Hashwert dient als digitaler Fingerabdruck eines Bil
 Jeder Eintrag enthält:
 
 - **Bildname**  
+- **Model**  
 - **Erstelldatum**  
 - **SHA Wert**  
 - **Verkaufstag**
